@@ -1,0 +1,34 @@
+# Captured on 2026-10-27 from the same R installation used for the 2026-10-26 Goals 1-3 run
+# (par_goals123.R did not write sessionInfo itself). Namespaces loaded as in the run.
+R version 4.5.2 (2025-10-31)
+Platform: aarch64-apple-darwin20
+Running under: macOS Tahoe 26.5.2
+
+Matrix products: default
+BLAS:   /System/Library/Frameworks/Accelerate.framework/Versions/A/Frameworks/vecLib.framework/Versions/A/libBLAS.dylib 
+LAPACK: /Library/Frameworks/R.framework/Versions/4.5-arm64/Resources/lib/libRlapack.dylib;  LAPACK version 3.12.1
+
+locale:
+[1] C.UTF-8/C.UTF-8/C.UTF-8/C/C.UTF-8/C.UTF-8
+
+time zone: Europe/Amsterdam
+tzcode source: internal
+
+attached base packages:
+[1] stats     graphics  grDevices utils     datasets  methods   base     
+
+loaded via a namespace (and not attached):
+ [1] Matrix_1.7-6      mitml_0.4-5       glmnet_5.1        dplyr_1.2.1      
+ [5] compiler_4.5.2    rpart_4.1.27      tidyselect_1.2.1  Rcpp_1.1.2       
+ [9] modeldata_1.6.0   mice_3.18.1       tidyr_1.3.2       splines_4.5.2    
+[13] boot_1.3-32       lattice_0.22-9    R6_2.6.1          generics_0.1.4   
+[17] shape_1.4.6.1     pan_2.0           rbibutils_2.4.1   MASS_7.3-66      
+[21] iterators_1.0.14  backports_1.5.1   tibble_3.3.1      nloptr_2.2.1     
+[25] nnet_7.3-21       minqa_1.2.8       R.cache_0.17.0    pillar_1.11.1    
+[29] R.utils_2.13.0    rlang_1.3.0       broom_1.0.13      cli_3.6.6        
+[33] magrittr_2.0.5    Rdpack_2.6.6      jomo_2.7-6        digest_0.6.39    
+[37] foreach_1.5.2     grid_4.5.2        lme4_2.1-0        nlme_3.1-170     
+[41] lifecycle_1.0.5   reformulas_0.4.4  R.methodsS3_1.8.2 R.oo_1.27.1      
+[45] vctrs_0.7.3       glue_1.8.1        styler_1.11.0     codetools_0.2-20 
+[49] lars_1.3          survival_3.8-9    purrr_1.2.2       tools_4.5.2      
+[53] pkgconfig_2.0.3  

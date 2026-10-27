@@ -1,0 +1,126 @@
+Empirical population N=2925; slope=0.0005939377
+Goal 4 replication 1/1000
+Goal 4 replication 10/1000
+Goal 4 replication 20/1000
+Goal 4 replication 30/1000
+Goal 4 replication 40/1000
+Goal 4 replication 50/1000
+Goal 4 replication 60/1000
+Goal 4 replication 70/1000
+Goal 4 replication 80/1000
+Goal 4 replication 90/1000
+Goal 4 replication 100/1000
+Goal 4 replication 110/1000
+Goal 4 replication 120/1000
+Goal 4 replication 130/1000
+Goal 4 replication 140/1000
+Goal 4 replication 150/1000
+Goal 4 replication 160/1000
+Goal 4 replication 170/1000
+Goal 4 replication 180/1000
+Goal 4 replication 190/1000
+Goal 4 replication 200/1000
+Goal 4 replication 210/1000
+Goal 4 replication 220/1000
+Goal 4 replication 230/1000
+Goal 4 replication 240/1000
+Goal 4 replication 250/1000
+Goal 4 replication 260/1000
+Goal 4 replication 270/1000
+Goal 4 replication 280/1000
+Goal 4 replication 290/1000
+Goal 4 replication 300/1000
+Goal 4 replication 310/1000
+Goal 4 replication 320/1000
+Goal 4 replication 330/1000
+Goal 4 replication 340/1000
+Goal 4 replication 350/1000
+Goal 4 replication 360/1000
+Goal 4 replication 370/1000
+Goal 4 replication 380/1000
+Goal 4 replication 390/1000
+Goal 4 replication 400/1000
+Goal 4 replication 410/1000
+Goal 4 replication 420/1000
+Goal 4 replication 430/1000
+Goal 4 replication 440/1000
+Goal 4 replication 450/1000
+Goal 4 replication 460/1000
+Goal 4 replication 470/1000
+Goal 4 replication 480/1000
+Goal 4 replication 490/1000
+Goal 4 replication 500/1000
+Goal 4 replication 510/1000
+Goal 4 replication 520/1000
+Goal 4 replication 530/1000
+Goal 4 replication 540/1000
+Goal 4 replication 550/1000
+Goal 4 replication 560/1000
+Goal 4 replication 570/1000
+Goal 4 replication 580/1000
+Goal 4 replication 590/1000
+Goal 4 replication 600/1000
+Goal 4 replication 610/1000
+Goal 4 replication 620/1000
+Goal 4 replication 630/1000
+Goal 4 replication 640/1000
+Goal 4 replication 650/1000
+Goal 4 replication 660/1000
+Goal 4 replication 670/1000
+Goal 4 replication 680/1000
+Goal 4 replication 690/1000
+Goal 4 replication 700/1000
+Goal 4 replication 710/1000
+Goal 4 replication 720/1000
+Goal 4 replication 730/1000
+Goal 4 replication 740/1000
+Goal 4 replication 750/1000
+Goal 4 replication 760/1000
+Goal 4 replication 770/1000
+Goal 4 replication 780/1000
+Goal 4 replication 790/1000
+Goal 4 replication 800/1000
+Goal 4 replication 810/1000
+Goal 4 replication 820/1000
+Goal 4 replication 830/1000
+Goal 4 replication 840/1000
+Goal 4 replication 850/1000
+Goal 4 replication 860/1000
+Goal 4 replication 870/1000
+Goal 4 replication 880/1000
+Goal 4 replication 890/1000
+Goal 4 replication 900/1000
+Goal 4 replication 910/1000
+Goal 4 replication 920/1000
+Goal 4 replication 930/1000
+Goal 4 replication 940/1000
+Goal 4 replication 950/1000
+Goal 4 replication 960/1000
+Goal 4 replication 970/1000
+Goal 4 replication 980/1000
+Goal 4 replication 990/1000
+Goal 4 replication 1000/1000
+        method nrep population_slope mean_estimate      bias relative_bias_pct
+1 CompleteData 1000         0.000594      0.000594  2.49e-07            0.0419
+2    LM_mean_Z 1000         0.000594      0.000611  1.70e-05            2.8565
+3   LM_mean_ZY 1000         0.000594      0.000695  1.01e-04           17.0389
+4    LM_draw_Z 1000         0.000594      0.000442 -1.52e-04          -25.6209
+5   LM_draw_ZY 1000         0.000594      0.000593 -1.37e-06           -0.2303
+6     LM_MI_ZY 1000         0.000594      0.000591 -2.86e-06           -0.4816
+7 LM_MI_PMM_ZY 1000         0.000594      0.000592 -1.91e-06           -0.3223
+  empirical_sd mean_reported_se se_ratio ci_coverage ci_coverage_mcse
+1     2.23e-05         2.21e-05    0.990       0.943          0.00733
+2     2.92e-05         2.66e-05    0.911       0.877          0.01039
+3     2.80e-05         2.55e-05    0.908       0.032          0.00557
+4     2.66e-05         2.55e-05    0.958       0.000          0.00000
+5     2.72e-05         2.19e-05    0.806       0.881          0.01024
+6     2.62e-05         2.40e-05    0.915       0.927          0.00823
+7     2.59e-05         2.41e-05    0.931       0.933          0.00791
+  mean_ci_width
+1      8.65e-05
+2      1.04e-04
+3      9.99e-05
+4      9.99e-05
+5      8.59e-05
+6      9.42e-05
+7      9.50e-05
